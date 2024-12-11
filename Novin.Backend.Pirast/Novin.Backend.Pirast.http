@@ -1,0 +1,6 @@
+@Novin.Backend.Pirast_HostAddress = http://localhost:5053
+
+GET {{Novin.Backend.Pirast_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
