@@ -1,41 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Backend.Pirast\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|Solution Items{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Backend.Pirast\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|Solution Items{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\My Folder\\Educational\\Programming\\ProjectOriented\\FinalProject\\Novin.Backend.Pirast\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.txt",
-              "DocumentMoniker": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Backend.Pirast\\README.txt",
-              "RelativeDocumentMoniker": "README.txt",
-              "ToolTip": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Backend.Pirast\\README.txt",
-              "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-11T09:34:35.525Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
