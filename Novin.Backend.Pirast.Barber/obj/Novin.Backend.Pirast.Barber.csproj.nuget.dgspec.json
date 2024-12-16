@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast\\Novin.Backend.Pirast.csproj": {}
+    "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj": {}
   },
   "projects": {
-    "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast\\Novin.Backend.Pirast.csproj": {
+    "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast\\Novin.Backend.Pirast.csproj",
-        "projectName": "Novin.Backend.Pirast",
-        "projectPath": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast\\Novin.Backend.Pirast.csproj",
+        "projectUniqueName": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+        "projectName": "Novin.Backend.Pirast.Barber",
+        "projectPath": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
         "packagesPath": "C:\\Users\\MojtabaHaqi\\.nuget\\packages\\",
-        "outputPath": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast\\obj\\",
+        "outputPath": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,12 +50,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -68,9 +62,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ff2UFBshqU0=",
+  "dgSpecHash": "5goac8iJf50=",
   "success": true,
-  "projectFilePath": "D:\\My Folder\\Educational\\Programming\\ProjectOriented\\FinalProject\\Novin.Backend.Pirast\\Novin.Backend.Pirast\\Novin.Backend.Pirast.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast\\Novin.Backend.Pirast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MojtabaHaqi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\MojtabaHaqi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
   "logs": []
 }

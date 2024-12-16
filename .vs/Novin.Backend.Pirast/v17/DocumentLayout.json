@@ -1,12 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My Folder\\Educational\\Programming\\ProjectOriented\\FinalProject\\Novin.Backend.Pirast\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1460C4-7CE0-42A6-BF9A-B7FAFEE45759}|Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj|d:\\1workstation\\novin\\novin.backend.pirast\\novin.backend.pirast.barber\\novin.backend.pirast.barber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD1460C4-7CE0-42A6-BF9A-B7FAFEE45759}|Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj|solutionrelative:novin.backend.pirast.barber\\novin.backend.pirast.barber.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Novin.Backend.Pirast.Barber",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+              "RelativeDocumentMoniker": "Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+              "RelativeToolTip": "Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T14:34:20.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
