@@ -1,0 +1,8 @@
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.csproj.AssemblyReference.cache
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.AssemblyInfoInputs.cache
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.AssemblyInfo.cs
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.csproj.CoreCompileInputs.cache
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.MvcApplicationPartsAssemblyInfo.cs
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.MvcApplicationPartsAssemblyInfo.cache
+E:\Pirast\Novin.Backend.Pirast\Novin.Backend.Pirast\obj\Debug\net9.0\Novin.Backend.Pirast.sourcelink.json

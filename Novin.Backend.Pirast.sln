@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{B6982C8A-2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novin.Backend.Pirast.Barber", "Novin.Backend.Pirast.Barber\Novin.Backend.Pirast.Barber.csproj", "{CD1460C4-7CE0-42A6-BF9A-B7FAFEE45759}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pirast.Backend.Core", "Pirast.Backend.Core", "{E62FCCD2-FBF2-4241-B1D1-00A30EB0BEFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirast.Core", "Pirast.Core\Pirast.Core.csproj", "{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +32,10 @@ Global
 		{CD1460C4-7CE0-42A6-BF9A-B7FAFEE45759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD1460C4-7CE0-42A6-BF9A-B7FAFEE45759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD1460C4-7CE0-42A6-BF9A-B7FAFEE45759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,5 +43,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B8D6CBB7-55DA-4B2C-B9E1-0058CCA6FF4F} = {EBDE3219-3BB6-4A49-B625-5B1191439493}
 		{CD1460C4-7CE0-42A6-BF9A-B7FAFEE45759} = {EBDE3219-3BB6-4A49-B625-5B1191439493}
+		{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7} = {E62FCCD2-FBF2-4241-B1D1-00A30EB0BEFF}
 	EndGlobalSection
 EndGlobal
