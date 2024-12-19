@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Pirast\\Novin.Backend.Pirast\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|e:\\pirast\\novin.backend.pirast\\pirast.core\\entity\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|solutionrelative:pirast.core\\entity\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|e:\\pirast\\novin.backend.pirast\\pirast.core\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|solutionrelative:pirast.core\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|e:\\pirast\\novin.backend.pirast\\pirast.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|solutionrelative:pirast.core\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|e:\\pirast\\novin.backend.pirast\\pirast.core\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|solutionrelative:pirast.core\\entity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|e:\\pirast\\novin.backend.pirast\\pirast.core\\entity\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}|Pirast.Core\\Pirast.Core.csproj|solutionrelative:pirast.core\\entity\\admins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|Docs{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|E:\\Pirast\\Novin.Backend.Pirast\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|Docs{B6982C8A-2D41-4C13-9AE9-64FF3C063277}|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Pirast\\Novin.Backend.Pirast\\pirast.Backend.Core\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "README.txt",
+              "DocumentMoniker": "E:\\Pirast\\Novin.Backend.Pirast\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "E:\\Pirast\\Novin.Backend.Pirast\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-19T05:45:48.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Admins.cs",
               "DocumentMoniker": "E:\\Pirast\\Novin.Backend.Pirast\\Pirast.Core\\Entity\\Admins.cs",
               "RelativeDocumentMoniker": "Pirast.Core\\Entity\\Admins.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "E:\\Pirast\\Novin.Backend.Pirast\\Pirast.Core\\Entity\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Pirast.Core\\Entity\\ApplicationUser.cs",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "E:\\Pirast\\Novin.Backend.Pirast\\pirast.Backend.Core\\BaseEntity.cs",
               "RelativeDocumentMoniker": "pirast.Backend.Core\\BaseEntity.cs",
@@ -92,31 +109,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "E:\\Pirast\\Novin.Backend.Pirast\\pirast.Backend.Core\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "pirast.Backend.Core\\ApplicationUser.cs",
               "ToolTip": "E:\\Pirast\\Novin.Backend.Pirast\\pirast.Backend.Core\\ApplicationUser.cs",
               "RelativeToolTip": "pirast.Backend.Core\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:06:44.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Admins.cs",
               "DocumentMoniker": "E:\\Pirast\\Novin.Backend.Pirast\\pirast.Backend.Core\\Admins.cs",
               "RelativeDocumentMoniker": "pirast.Backend.Core\\Admins.cs",
               "ToolTip": "E:\\Pirast\\Novin.Backend.Pirast\\pirast.Backend.Core\\Admins.cs",
               "RelativeToolTip": "pirast.Backend.Core\\Admins.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T07:06:43.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Novin.Backend.Pirast.Barber.csproj",
               "DocumentMoniker": "E:\\Pirast\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
               "RelativeDocumentMoniker": "Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
@@ -124,7 +139,8 @@
               "RelativeToolTip": "Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T14:34:20.043Z"
+              "WhenOpened": "2024-12-16T14:34:20.043Z",
+              "EditorCaption": ""
             }
           ]
         }

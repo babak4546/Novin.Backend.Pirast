@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novin.Backend.Pirast.Barber
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pirast.Backend.Core", "Pirast.Backend.Core", "{E62FCCD2-FBF2-4241-B1D1-00A30EB0BEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirast.Core", "Pirast.Core\Pirast.Core.csproj", "{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirast.Backend.Admin", "Pirast.Core\Pirast.Backend.Admin.csproj", "{0BFA35EB-F0F1-4A13-B3C4-AE4197CF11C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

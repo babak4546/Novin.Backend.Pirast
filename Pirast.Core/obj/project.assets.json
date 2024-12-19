@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Pirast\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Core.csproj",
-      "projectName": "Pirast.Core",
-      "projectPath": "E:\\Pirast\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Core.csproj",
+      "projectUniqueName": "E:\\Pirast\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj",
+      "projectName": "Pirast.Backend.Admin",
+      "projectPath": "E:\\Pirast\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj",
       "packagesPath": "C:\\Users\\HoseinBygomjany\\.nuget\\packages\\",
       "outputPath": "E:\\Pirast\\Novin.Backend.Pirast\\Pirast.Core\\obj\\",
       "projectStyle": "PackageReference",
