@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\learning\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj": {}
+    "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj": {}
   },
   "projects": {
-    "D:\\learning\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj": {
+    "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\learning\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj",
+        "projectUniqueName": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj",
         "projectName": "Pirast.Backend.Admin",
-        "projectPath": "D:\\learning\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj",
-        "packagesPath": "C:\\Users\\naghavi\\.nuget\\packages\\",
-        "outputPath": "D:\\learning\\Novin.Backend.Pirast\\Pirast.Core\\obj\\",
+        "projectPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Backend.Admin.csproj",
+        "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Pirast.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\naghavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj": {}
+    "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Customer\\Novin.Backend.Pirast.Customer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj": {
+    "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Customer\\Novin.Backend.Pirast.Customer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
-        "projectName": "Novin.Backend.Pirast.Barber",
-        "projectPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+        "projectUniqueName": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Customer\\Novin.Backend.Pirast.Customer.csproj",
+        "projectName": "Novin.Backend.Pirast.Customer",
+        "projectPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Customer\\Novin.Backend.Pirast.Customer.csproj",
         "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\obj\\",
+        "outputPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Customer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -60,6 +60,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }

@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\naghavi\\.nuget\\packages\\": {},
+    "C:\\Users\\shahi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learning\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+      "projectUniqueName": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
       "projectName": "Novin.Backend.Pirast.Barber",
-      "projectPath": "D:\\learning\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
-      "packagesPath": "C:\\Users\\naghavi\\.nuget\\packages\\",
-      "outputPath": "D:\\learning\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\obj\\",
+      "projectPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\Novin.Backend.Pirast.Barber.csproj",
+      "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shahi\\Desktop\\test\\Novin.Backend.Pirast\\Novin.Backend.Pirast.Barber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\naghavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
