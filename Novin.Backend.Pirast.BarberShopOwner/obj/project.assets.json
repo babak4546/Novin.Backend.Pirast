@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Pirast.Core/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/Pirast.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pirast.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pirast.Core/1.0.0": {
+      "type": "project",
+      "path": "../Pirast.Core/Pirast.Core.csproj",
+      "msbuildProject": "../Pirast.Core/Pirast.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Pirast.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\naghavi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\learning\\Novin.Backend.Pirast\\Novin.Backend.Pirast.BarberShopOwner\\Novin.Backend.Pirast.BarberShop.csproj",
+      "projectName": "Novin.Backend.Pirast.BarberShop",
+      "projectPath": "D:\\learning\\Novin.Backend.Pirast\\Novin.Backend.Pirast.BarberShopOwner\\Novin.Backend.Pirast.BarberShop.csproj",
+      "packagesPath": "C:\\Users\\naghavi\\.nuget\\packages\\",
+      "outputPath": "D:\\learning\\Novin.Backend.Pirast\\Novin.Backend.Pirast.BarberShopOwner\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\naghavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\learning\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Core.csproj": {
+              "projectPath": "D:\\learning\\Novin.Backend.Pirast\\Pirast.Core\\Pirast.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Pirast.Core is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Project Pirast.Core supports: net9.0 (.NETCoreApp,Version=v9.0)",
+      "libraryId": "Pirast.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
