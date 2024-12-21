@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Domain", "1-Domain", "{348E01AF-E5A2-49FD-B0F5-08288D45296C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novin.Pirast.Core", "Novin.Pirast.Core\Novin.Pirast.Core.csproj", "{02D63632-103F-499C-83CD-66748FE1F010}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Infrastructure", "2-Infrastructure", "{F885375F-830F-4701-96BD-0CDC87BE6B25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Api", "3-Api", "{83389143-94D6-4853-A9DB-00321487C39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D63632-103F-499C-83CD-66748FE1F010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02D63632-103F-499C-83CD-66748FE1F010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02D63632-103F-499C-83CD-66748FE1F010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02D63632-103F-499C-83CD-66748FE1F010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02D63632-103F-499C-83CD-66748FE1F010} = {348E01AF-E5A2-49FD-B0F5-08288D45296C}
+	EndGlobalSection
+EndGlobal
