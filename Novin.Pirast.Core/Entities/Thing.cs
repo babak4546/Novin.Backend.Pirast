@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Novin.Pirast.Core.Entities
 {
-    internal class Thing : IThing
+    public class Thing : IThing
     {
         public int Id { get ; set ; }
         public string Guid { get  ; set; }

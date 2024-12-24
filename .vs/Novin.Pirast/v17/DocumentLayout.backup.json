@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Pirast\\",
+  "WorkspaceRootPath": "D:\\1Workstation\\Novin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|c:\\\u002B18 files\\myproject\\novin\u002B\\backend\\novin.pirast\\novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\entities\\barbers\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\barbers\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|c:\\\u002B18 files\\myproject\\novin\u002B\\backend\\novin.pirast\\novin.pirast.core\\interfaces\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\interfaces\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\interfaces\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|c:\\\u002B18 files\\myproject\\novin\u002B\\backend\\novin.pirast\\novin.pirast.core\\novin.pirast.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\novin.pirast.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,39 +31,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Barber.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:24:16.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Thing.cs",
-              "DocumentMoniker": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Pirast\\Novin.Pirast.Core\\Entities\\Thing.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Thing.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Thing.cs",
-              "ToolTip": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Pirast\\Novin.Pirast.Core\\Entities\\Thing.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Thing.cs",
               "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Thing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T19:58:18.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IThing.cs",
-              "DocumentMoniker": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Pirast\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Interfaces\\IThing.cs",
-              "ToolTip": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Pirast\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
               "RelativeToolTip": "Novin.Pirast.Core\\Interfaces\\IThing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T19:57:09.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Novin.Pirast.Core.csproj",
-              "DocumentMoniker": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Pirast\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-              "ToolTip": "C:\\\u002B18 files\\myProject\\Novin\u002B\\Backend\\Novin.Pirast\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-              "RelativeToolTip": "Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-21T19:56:37.986Z"
+              "WhenOpened": "2024-12-21T19:57:09.362Z",
+              "EditorCaption": ""
             }
           ]
         }
