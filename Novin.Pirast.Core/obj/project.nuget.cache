@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r6ezue2Vfcs=",
+  "dgSpecHash": "QeQXmAE9Hn8=",
   "success": true,
-  "projectFilePath": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+  "projectFilePath": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\1Workstation\\Novin\\Novin.Pirast.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

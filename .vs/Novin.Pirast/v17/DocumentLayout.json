@@ -1,44 +1,53 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\1Workstation\\Novin\\",
+  "WorkspaceRootPath": "D:\\learning\\Pirast_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\entities\\barbers\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\barbers\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\common\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\common\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\common\\pirastuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\common\\pirastuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\interfaces\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "E:\\Pirast\\",
-  "Documents": [
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\common\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\common\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|e:\\pirast\\novin.pirast.core\\entities\\barbershops\\barbershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\common\\reporting\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\common\\reporting\\revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\common\\reporting\\customerscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\common\\reporting\\customerscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\common\\reporting\\customersatisfaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\common\\reporting\\customersatisfaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\enum\\pirastusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\enum\\pirastusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\common\\tiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\common\\tiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\barbershops\\barbershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\barbershops\\barbershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|e:\\pirast\\novin.pirast.core\\entities\\barbershops\\barbershopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\barbershops\\barbershopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|e:\\pirast\\novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|e:\\pirast\\novin.pirast.core\\entities\\barbershops\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\barbershops\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\entities\\barbers\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\barbers\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|e:\\pirast\\novin.pirast.core\\entities\\barbershops\\educationcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\barbershops\\educationcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|e:\\pirast\\novin.pirast.core\\interfaces\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> d48e81b0601f5d9afb2065c75e1ca030fac7e7d1
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\learning\\pirast_project\\novin.pirast.core\\interfaces\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\interfaces\\ithing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -49,119 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-              "Title": "Barber.cs",
-              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
-              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
-              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T10:24:16.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Thing.cs",
-              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Thing.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Thing.cs",
-              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Thing.cs",
-              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Thing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Title": "PirastUser.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\PirastUser.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\PirastUser.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\PirastUser.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Common\\PirastUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T19:58:18.892Z",
+              "WhenOpened": "2024-12-24T22:13:41.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IThing.cs",
-              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Interfaces\\IThing.cs",
-              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
-=======
-              "DocumentIndex": 5,
-              "Title": "IThing.cs",
-              "DocumentMoniker": "E:\\Pirast\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Interfaces\\IThing.cs",
-              "ToolTip": "E:\\Pirast\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
->>>>>>> d48e81b0601f5d9afb2065c75e1ca030fac7e7d1
-              "RelativeToolTip": "Novin.Pirast.Core\\Interfaces\\IThing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Comments.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Comments.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Comments.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Comments.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Common\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-12-21T19:57:09.362Z",
-=======
-              "WhenOpened": "2024-12-24T12:11:10.202Z"
+              "WhenOpened": "2024-12-24T22:13:22.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Thing.cs",
-              "DocumentMoniker": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\Thing.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Thing.cs",
-              "ToolTip": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\Thing.cs",
-              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Thing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Revenue.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\Revenue.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\Revenue.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\Revenue.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\Revenue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:58:13.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BarberShop.cs",
-              "DocumentMoniker": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
-              "ToolTip": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
-              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA5wCEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T17:45:23.574Z",
+              "WhenOpened": "2024-12-24T22:12:54.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EducationCategory.cs",
-              "DocumentMoniker": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\EducationCategory.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\BarberShops\\EducationCategory.cs",
-              "ToolTip": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\EducationCategory.cs",
-              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\BarberShops\\EducationCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Title": "CustomersCount.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomersCount.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomersCount.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomersCount.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomersCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T06:16:28.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Education.cs",
-              "DocumentMoniker": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\Education.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\BarberShops\\Education.cs",
-              "ToolTip": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\Education.cs",
-              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\BarberShops\\Education.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T06:14:56.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BarberShopService.cs",
-              "DocumentMoniker": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\BarberShopService.cs",
-              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\BarberShops\\BarberShopService.cs",
-              "ToolTip": "E:\\Pirast\\Novin.Pirast.Core\\Entities\\BarberShops\\BarberShopService.cs",
-              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\BarberShops\\BarberShopService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAxwBoAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T18:18:03.525Z",
->>>>>>> d48e81b0601f5d9afb2065c75e1ca030fac7e7d1
+              "WhenOpened": "2024-12-24T22:12:30.486Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerSatisfaction.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomerSatisfaction.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomerSatisfaction.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomerSatisfaction.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomerSatisfaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T22:11:47.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PirastUserType.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Enum\\PirastUserType.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Enum\\PirastUserType.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Enum\\PirastUserType.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Enum\\PirastUserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T22:08:01.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarberShop.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T22:01:14.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reservation.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reservation.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Reservation.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Common\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:59:17.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tiket.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Tiket.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Tiket.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Tiket.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Common\\Tiket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:07:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Barber.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:05:04.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Thing.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Thing.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Thing.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Thing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:05:04.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IThing.cs",
+              "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Interfaces\\IThing.cs",
+              "ToolTip": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Interfaces\\IThing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:05:04.436Z"
             }
           ]
         }

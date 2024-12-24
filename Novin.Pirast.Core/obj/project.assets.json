@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MojtabaHaqi\\.nuget\\packages\\": {},
+    "C:\\Users\\naghavi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+      "projectUniqueName": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
       "projectName": "Novin.Pirast.Core",
-      "projectPath": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-      "packagesPath": "C:\\Users\\MojtabaHaqi\\.nuget\\packages\\",
-      "outputPath": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\obj\\",
+      "projectPath": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+      "packagesPath": "C:\\Users\\naghavi\\.nuget\\packages\\",
+      "outputPath": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MojtabaHaqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\naghavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -51,8 +51,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net9.0": {
@@ -68,21 +67,8 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\1Workstation\\Novin\\Novin.Pirast.Core\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

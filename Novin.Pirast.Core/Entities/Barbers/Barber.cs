@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Novin.Pirast.Core.Entities.Common;
 
 namespace Novin.Pirast.Core.Entities.Barbers
 {
@@ -14,7 +15,7 @@ namespace Novin.Pirast.Core.Entities.Barbers
         public List<BarberShop> BarberShops { get; set; }
         public List<BarberShopService> BarberShopServices { get; set; }
         public List<Tiket> Tikets { get; set; }
-        public List<Reporting> Reportings { get; set; }
+        public List<Reportings> Reportings { get; set; }
         public List<Comments> Comments { get; set; }
         public List<Reservation> Reservations { get; set; }
 
