@@ -1,0 +1,11 @@
+E:\Pirast\Novin.Pirast.Core\bin\Debug\net9.0\Novin.Pirast.Core.deps.json
+E:\Pirast\Novin.Pirast.Core\bin\Debug\net9.0\Novin.Pirast.Core.dll
+E:\Pirast\Novin.Pirast.Core\bin\Debug\net9.0\Novin.Pirast.Core.pdb
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\Novin.Pirast.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\Novin.Pirast.Core.AssemblyInfoInputs.cache
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\Novin.Pirast.Core.AssemblyInfo.cs
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\Novin.Pirast.Core.csproj.CoreCompileInputs.cache
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\Novin.Pirast.Core.dll
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\refint\Novin.Pirast.Core.dll
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\Novin.Pirast.Core.pdb
+E:\Pirast\Novin.Pirast.Core\obj\Debug\net9.0\ref\Novin.Pirast.Core.dll
