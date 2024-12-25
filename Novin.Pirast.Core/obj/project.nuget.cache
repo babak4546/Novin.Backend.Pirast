@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QeQXmAE9Hn8=",
+  "dgSpecHash": "8+O3mIQPYnI=",
   "success": true,
-  "projectFilePath": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\shahi\\Desktop\\Object\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shahi\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
+  ],
   "logs": []
 }

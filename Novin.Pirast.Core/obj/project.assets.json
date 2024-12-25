@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\naghavi\\.nuget\\packages\\": {},
+    "C:\\Users\\shahi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+      "projectUniqueName": "C:\\Users\\shahi\\Desktop\\Object\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
       "projectName": "Novin.Pirast.Core",
-      "projectPath": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-      "packagesPath": "C:\\Users\\naghavi\\.nuget\\packages\\",
-      "outputPath": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\obj\\",
+      "projectPath": "C:\\Users\\shahi\\Desktop\\Object\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+      "packagesPath": "C:\\Users\\shahi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shahi\\Desktop\\Object\\Novin.Pirast.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\naghavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shahi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -50,7 +50,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {
@@ -67,7 +67,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+            "version": "[9.0.101, 9.0.101]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
