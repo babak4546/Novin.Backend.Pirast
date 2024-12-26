@@ -5,6 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
+using Novin.Pirast.Core.Entities.Barbers;
+using Novin.Pirast.Core.Entities.Common;
+using Novin.Pirast.Core.Entities.Customer;
 using static Novin.Pirast.Core.Entities.BarberShops.BarberShopService;
 
 namespace Novin.Pirast.Core.Entities.BarberShops
@@ -30,19 +33,19 @@ namespace Novin.Pirast.Core.Entities.BarberShops
 
         //این برای بخش های مشترک است
         #region 
-        public <NormalUser> NormalUsers { get; set; }
+        public List<NormalUser>? NormalUsers { get; set; }
         public int NormalUsersId { get; set; }
-        public <Barber> Barber { get; set; }
+        public List<Barber>? Barber { get; set; }
         public int BarberId { get; set; }
-        public < Tiket > Tikets { get; set; }
+        public List<Ticket>? Tikets { get; set; }
         public int TiketsId { get; set; }
 
-        public < Reporting > Reportings { get; set; }
+        public List< Reporting > Reportings { get; set; }//parsa nazade ya eshtebah zade
         public int ReportingsId { get; set; }
-        public < Comments > Comments { get; set; }
+        public List< Comments >? Comments { get; set; }
         public int CommentsId { get; set; }
 
-        public < Reservation > Reservations { get; set; }
+        public List< Reservation >? Reservations { get; set; }
         public int ReservationsId { get; set; }
 
         #endregion
