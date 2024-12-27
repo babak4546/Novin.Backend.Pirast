@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HoseinBygomjany\\.nuget\\packages\\": {},
+    "C:\\Users\\MojtabaHaqi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Pirast\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+      "projectUniqueName": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
       "projectName": "Novin.Pirast.Core",
-      "projectPath": "E:\\Pirast\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
-      "packagesPath": "C:\\Users\\HoseinBygomjany\\.nuget\\packages\\",
-      "outputPath": "E:\\Pirast\\Novin.Pirast.Core\\obj\\",
+      "projectPath": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Novin.Pirast.Core.csproj",
+      "packagesPath": "C:\\Users\\MojtabaHaqi\\.nuget\\packages\\",
+      "outputPath": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HoseinBygomjany\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MojtabaHaqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
