@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Novin.Pirast.Core.Entities.Common
 {
-    public class Tiket : Thing
+    public class Ticket : Thing
     {
         public required PirastUser PirastUser { get; set; }
         public required string PirastUserPhoneNumber { get; set; }

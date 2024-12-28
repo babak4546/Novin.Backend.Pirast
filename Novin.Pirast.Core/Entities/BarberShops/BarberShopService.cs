@@ -18,13 +18,13 @@ namespace Novin.Pirast.Core.Entities.BarberShops
         public string? Description { get; set; }
 
         // کلید خارجی که سرویس را به دسته‌بندی آن متصل می‌کند.
-        public int CategoryId { get; set; }
+        public BarberShop BarberShop { get; set; }=new BarberShop();
+        public int BarberShopId { get; set; }
 
         // نشان می‌دهد که آیا سرویس مجاز  یا خیر.
         public bool AuthorizationStatus { get; set; } = true;
 
         // ویژگی ناوبری برای دسترسی به دسته‌بندی مرتبط.
-        public BarberShop Category { get; set; }=new BarberShop();
 
 
         // نوع سرویس که به دسته‌بندی خاصی اشاره دارد.

@@ -10,7 +10,7 @@ namespace Novin.Pirast.Core.Entities.Common.Reporting
     {
         public required int BarberShopId { get; set; }
         public required List<int> Ratings { get; set; }
-        public CustomerSatisfactions()
+        public CustomerSatisfaction()
         {
             Ratings = new List<int>();
         }
