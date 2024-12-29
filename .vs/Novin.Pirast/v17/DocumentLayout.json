@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\1Workstation\\Novin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\entities\\transactions\\receipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\transactions\\receipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\entities\\transactions\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\transactions\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\enum\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\enum\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\enum\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\enum\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|d:\\1workstation\\novin\\novin.pirast.core\\entities\\admins\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D63632-103F-499C-83CD-66748FE1F010}|Novin.Pirast.Core\\Novin.Pirast.Core.csproj|solutionrelative:novin.pirast.core\\entities\\admins\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,7 +85,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,7 +93,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Enum\\Receipt.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Enum\\Receipt.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Enum\\Receipt.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Enum\\Receipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:52:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Enum\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Enum\\PaymentStatus.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Enum\\PaymentStatus.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Enum\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:52:13.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Enum\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Enum\\PaymentMethod.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Enum\\PaymentMethod.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Enum\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:51:54.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Receipts.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Transactions\\Receipts.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Transactions\\Receipts.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Transactions\\Receipts.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Transactions\\Receipts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:50:11.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Transactions\\Payment.cs",
+              "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Transactions\\Payment.cs",
+              "ToolTip": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Transactions\\Payment.cs",
+              "RelativeToolTip": "Novin.Pirast.Core\\Entities\\Transactions\\Payment.cs",
+              "ViewState": "AgIAAA4AAAAwMzMzMzMywAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:48:19.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Ticket.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Common\\Ticket.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Ticket.cs",
@@ -85,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AdminUser.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Admins\\AdminUser.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Admins\\AdminUser.cs",
@@ -98,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "PirastUser.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Common\\PirastUser.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\PirastUser.cs",
@@ -110,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Comments.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Common\\Comments.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Comments.cs",
@@ -122,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Revenue.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\Revenue.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\Revenue.cs",
@@ -134,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CustomersCount.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomersCount.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomersCount.cs",
@@ -146,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CustomerSatisfaction.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomerSatisfaction.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reporting\\CustomerSatisfaction.cs",
@@ -158,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "PirastUserType.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Enum\\PirastUserType.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Enum\\PirastUserType.cs",
@@ -170,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "BarberShop.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\BarberShops\\BarberShop.cs",
@@ -182,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Reservation.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Common\\Reservation.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Common\\Reservation.cs",
@@ -194,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Tiket.cs",
               "DocumentMoniker": "D:\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Tiket.cs",
               "RelativeDocumentMoniker": "..\\..\\learning\\Pirast_project\\Novin.Pirast.Core\\Entities\\Common\\Tiket.cs",
@@ -206,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Barber.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Barbers\\Barber.cs",
@@ -218,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Thing.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Entities\\Thing.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Entities\\Thing.cs",
@@ -230,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "IThing.cs",
               "DocumentMoniker": "D:\\1Workstation\\Novin\\Novin.Pirast.Core\\Interfaces\\IThing.cs",
               "RelativeDocumentMoniker": "Novin.Pirast.Core\\Interfaces\\IThing.cs",

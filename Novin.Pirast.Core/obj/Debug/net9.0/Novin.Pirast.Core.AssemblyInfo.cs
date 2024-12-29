@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Novin.Pirast.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d399b74f3d215ae36d77f3c196ed7f4fadd4369c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecd83ae5de7654cd0753ab864a9a79e9d43a24a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Novin.Pirast.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Novin.Pirast.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
