@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Novin.Pirast.Core",
+    "\\Novin.Pirast.Core\\Entities",
+    "\\Novin.Pirast.Core\\Entities\\Common",
+    "\\Novin.Pirast.Core\\Entities\\Customer",
+    "\\Novin.Pirast.Core\\Entities\\Transactions",
+    "\\Novin.Pirast.Core\\Interfaces"
+  ],
+  "SelectedNode": "\\Novin.Pirast.Core\\Entities\\Transactions\\Receipts.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -23,6 +23,5 @@ namespace Novin.Pirast.Core.Entities.Transactions
         public string ReceiptNumber { get; set; } // Unique identifier for the receipt
 
         public string Notes { get; set; } // Additional notes (optional)
-
     }
 }
