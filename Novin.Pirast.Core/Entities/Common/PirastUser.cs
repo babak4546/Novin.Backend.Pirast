@@ -13,8 +13,8 @@ namespace Novin.Pirast.Core.Entities.Common
         public required string LastName { get; set; }
         public required string PassWord { get; set; } // این همون شماره تلفنه
         public string? NationalCode { get; set; }
-        public List<Ticket>? Tickets { get; set; }
-        public List<Reservation>? Reserves { get; set; }
+        public List<Ticket>? Ticket { get; set; }
+        public List<Reservation>? Reserve { get; set; }
         public required PirastUserType Type { get; set; }
         public required string Wallet { get; set; }
         public string UserType

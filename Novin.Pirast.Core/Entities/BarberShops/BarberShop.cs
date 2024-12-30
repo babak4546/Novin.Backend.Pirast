@@ -8,6 +8,8 @@ using System.Xml.Linq;
 using Novin.Pirast.Core.Entities.Barbers;
 using Novin.Pirast.Core.Entities.Common;
 using Novin.Pirast.Core.Entities.Customer;
+using Novin.Pirast.Core.Entities.Transactions;
+using Novin.Pirast.Core.Enum;
 using static Novin.Pirast.Core.Entities.BarberShops.BarberShopService;
 
 namespace Novin.Pirast.Core.Entities.BarberShops
@@ -37,16 +39,18 @@ namespace Novin.Pirast.Core.Entities.BarberShops
         public int NormalUsersId { get; set; }
         public List<Barber>? Barber { get; set; }
         public int BarberId { get; set; }
-        public List<Ticket>? Tikets { get; set; }
-        public int TiketsId { get; set; }
+        public List<Ticket>? Ticket { get; set; }
+        public int TicketsId { get; set; }
 
-        public List< Reporting > Reportings { get; set; }//parsa nazade ya eshtebah zade
-        public int ReportingsId { get; set; }
-        public List< Comments >? Comments { get; set; }
-        public int CommentsId { get; set; }
-
-        public List< Reservation >? Reservations { get; set; }
-        public int ReservationsId { get; set; }
+        public List< Reporting > Reporting { get; set; }//parsa nazade ya eshtebah zade
+        public int ReportingId { get; set; }
+        public List< Comments >? Comment { get; set; }
+        public int CommentId { get; set; }
+        public List<Payment> Payment { get; set; }
+        public int PaymentId { get; set; }
+        public List<Receipt> Receipt { get; set; }
+        public List< Reservation >? Reservation{ get; set; }
+        public int ReservationId { get; set; }
 
         #endregion
 
